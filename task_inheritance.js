@@ -89,14 +89,14 @@ class Person{
         this.nik = nik
         this.jenisKelamin = jenisKelamin
     }
-    setNama(val){
-        this.nama = val
+    setNama(nama){
+        this.nama = nama
     }
-    setNik(val){
-        this.nik = val
+    setNik(nik){
+        this.nik = nik
     }
-    setJenisKel(val){
-        this.jenisKelamin = val
+    setJenisKel(jenisKelamin){
+        this.jenisKelamin = jenisKelamin
     }
     getNama(){
         let nama
